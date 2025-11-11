@@ -1,7 +1,7 @@
 [![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https;//coder-apr-5.io)
 <p align="center">
   <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Apurba+Roy;I'm+a+Computer+Science+Engineer;I'm+a+Web+-+MERN+Developer!;Aspiring+AI+ML;Let's+get+started..." alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Akshar+Das;I'm+a+Artificial+Intelligence+&+Data+Science+Engineer;I'm+a+Web+-+MERN+Developer!;Aspiring+AI+DS;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
 <img align="left" alt="coding" width="400" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
@@ -18,21 +18,13 @@
 </p>
 <img align ="right" alt ="Coding" width ="400" src ="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 🌱 I’m currently learning **DSA,AI & ML, DBMS**
+- 🌱 I’m currently learning **DSA,AI & DS, DBMS**
 
-- 💬 Ask me about **C,Java, Python, FullStack Dev**
+- 💬 Ask me about **C, Python, FullStack Dev**
 
-- 📫 How to reach me **apurbaroy.leo5@gmail.com**
+- 📫 How to reach me **akshardas21@gmail.com**
 
-- ⚡ Fun fact **I drink coffee with codes**
-
-- My Wholesome meme "Be a Flowchart, not a Dietchart"
-
-- **NASA SPACE APP CHALLENGE WINNER '24 @DURGAPUR**
-
-- Open Source Contributor **@Gssoc'24**
-
-- Ex- Microsoft Learn Student Ambasaddor
+- ⚡ Fun fact **Effective Learner**
 
 - In Search of **Major Internships**
 
