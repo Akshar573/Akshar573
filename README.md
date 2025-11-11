@@ -1,7 +1,7 @@
 [![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https;//coder-apr-5.io)
 <p align="center">
   <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Akshar+Das;I'm+a+Artificial+Intelligence+&+Data+Science+Engineer;I'm+a+Web+-+MERN+Developer!;Aspiring+AI+DS;Let's+get+started..." alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Akshar+Das;I'm+a+Artificial+Intelligence+Engineer;I'm+a+Web+-+MERN+Developer!;Aspiring+AI+DS;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
 <img align="left" alt="coding" width="400" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
@@ -191,7 +191,7 @@
 </div>
 
 # Contribution Chart
-![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
+
 # More Details
 
 <details>
