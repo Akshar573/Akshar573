@@ -31,35 +31,6 @@
 - Collab with my Projects? **Connect with me**
 
 
-# Connect with me
-
-<div align="center">
-<a href="https://twitter.com/apuXrba_5" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/apurba-roy-85b1a82a4" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.com/channels/@me" target="_blank">
-<img src=https://img.shields.io/badge/discord-%A888B5.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-<a href = "https://profile.codersrank.io/user/coder-apr-5/" target = "_blank">
-<img src="https://img.shields.io/badge/codersrank-D14836?&style=for-the-badge&logo=codersrank&logoColor=white" />
-</a>
-<a href="https://www.leetcode.com/u/50VL5Hlv29/" target="_blank">
-<img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
-</a> 
-<a href="https://www.facebook.com/Apxrba.R5" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_apr_5_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-<a href = "mailto:apurbaroy.leo5@gmail.com" target = "_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div
-</p>
 
 # Languages and Tools
 <table>
