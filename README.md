@@ -81,12 +81,12 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
     </td>
+    </tr>
+ <tr>
     <td align="center" width="96">
         <img src= "https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="unity" />
       <br>Nextjs
     </td>
-  </tr>
- <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
